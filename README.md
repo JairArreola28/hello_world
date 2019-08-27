@@ -1,5 +1,5 @@
-# hello_world
-Proyecto inicial para aprender a manejar Git y Github
+﻿# hello_world
 
-## Esta es una modificación 
-Que se hizo para la rama readme-edits.
+Proyecto inicial para aprender Git y Github
+
+Lista para cambios en el repositorio local
